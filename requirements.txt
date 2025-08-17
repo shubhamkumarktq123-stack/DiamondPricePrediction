@@ -1,4 +1,6 @@
-pandas
+pandas 
 numpy 
-seaborn
+seaborn 
 flask
+scikit-learn
+#-e .
